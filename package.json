@@ -14,7 +14,7 @@
   "dependencies": {
     "bigint": "0.4.2",
     "bluebird": "2.3.2",
-    "jwcrypto": "0.4.4"
+    "jwcrypto": "latest"
   },
   "devDependencies": {
     "jshint": "2.5.5",
